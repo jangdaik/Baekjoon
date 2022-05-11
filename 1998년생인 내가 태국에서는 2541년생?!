@@ -1,3 +1,0 @@
-y= int(input())
-if y>=1000 & y <= 3000:
-    print(f'{y-543}')
